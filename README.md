@@ -14,7 +14,7 @@ This project is a **Context-Aware API Fuzzer** written in Python. Instead of bli
 ## 📂 Project Structure
 
 ```text
-Context-Aware-API-Fuzzer-GraphQL-REST-/
+Context-Aware-API-Fuzzer-GraphQL-REST/
 ├── fuzzer/
 │   ├── __init__.py
 │   ├── parsers.py          # OpenAPI and GraphQL schema extraction logic
@@ -26,7 +26,7 @@ Context-Aware-API-Fuzzer-GraphQL-REST-/
 1. Clone the repository:
 ```bash
 git clone https://github.com/JrBlackRose/Context-Aware-API-Fuzzer-GraphQL-REST.git
-cd Context-Aware-API-Fuzzer-GraphQL-REST-
+cd Context-Aware-API-Fuzzer-GraphQL-REST
 ```
 2. install the required dependencies
 ```bash
