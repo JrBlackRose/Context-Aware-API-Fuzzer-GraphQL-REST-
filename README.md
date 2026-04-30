@@ -25,7 +25,7 @@ Context-Aware-API-Fuzzer-GraphQL-REST-/
 🚀 Installation
 1. Clone the repository:
 ```bash
-git clone [https://github.com/JrBlackRose/Context-Aware-API-Fuzzer-GraphQL-REST-.git](https://github.com/JrBlackRose/Context-Aware-API-Fuzzer-GraphQL-REST-.git)
+git clone https://github.com/JrBlackRose/Context-Aware-API-Fuzzer-GraphQL-REST.git
 cd Context-Aware-API-Fuzzer-GraphQL-REST-
 ```
 2. install the required dependencies
